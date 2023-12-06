@@ -6,6 +6,11 @@ label {
   box-shadow: 0 2px 15px -3px rgba(0, 0, 0, 0.07),
     0 10px 20px -2px rgba(0, 0, 0, 0.04) !important;
   border-radius: 0.5rem !important;
-  background: #fff;
+  background: #2ae918;
   padding: 30px;
+}
+
+.grid {
+  display: grid;
+  padding: 20px;
 }
